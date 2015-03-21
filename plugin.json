@@ -1,0 +1,9 @@
+{
+	"name": "Library Album Display",
+	"version": "0.0.1",
+	"description": "Display album name in Library",
+	"author": {
+		"name": "Daniel Muller",
+		"link": "http://daniel.ctrlaltdel.ch"
+	}
+}
